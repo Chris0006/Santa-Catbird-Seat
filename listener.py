@@ -20,7 +20,7 @@ server.listen()
 def announce(message):
     try:
         pass
-        # WEBHOOK="https://discord.com/api/webhooks/921435574357876776/96Pbi7Ux8RzV6l7YMr3g5m_GI2R3ejRELNZCGafS2cNOcbTQ8_ZQkVrLfmgPKehIomAT"
+        # WEBHOOK=" discord webhook here "
         # webhook=DiscordWebhook(url=WEBHOOK)
         # embed=DiscordEmbed(title=f"{'='*15}  ms Server  {'='*15}", description=message)
         # webhook.add_embed(embed)    
